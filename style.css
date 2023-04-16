@@ -1,0 +1,12 @@
+canvas{
+    box-shadow: 5px 5px 5px blue;
+    border-color: teal;
+    border-radius: 10px;
+}
+body{
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.heading{
+    width:100%;
+}
